@@ -1,4 +1,4 @@
 export default defineConfig({
   plugins: [react()],
-  base: '/LUMORA/',
+  base: '/LUMORA-Luxury-Modern-E-Commerce-Website/',
 })
